@@ -1,5 +1,7 @@
 # Linee guida tesi
 
+[Template tesi](https://www.overleaf.com/project/5ddfe508fea6d40001ef6d7d)
+
 0. Consegna dei capitoli
     - Ogni capitolo va consegnato una sola volta, uno per volta
     - Prima di consegnarlo, metterlo "nel cassetto" 2-3 giorni e rileggerlo
