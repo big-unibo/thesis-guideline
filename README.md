@@ -5,6 +5,7 @@
 0. Consegna dei capitoli
     - Ogni capitolo va consegnato una sola volta, uno per volta
     - Prima di consegnarlo, metterlo "nel cassetto" 2-3 giorni e rileggerlo
+    - Dopo avere ricevuto le correzioni di un capitolo, verificare se le correzioni possono essere propagate sugli altri
 0. Linguaggio
     - Evitare sempre commenti non oggettivi/superficiali/informali (o sono supportati da citazioni o non si mettono). Ad esempio: banale, semplice, facile, difficile, molto, troppo, poco, impossibile
     - Concisione: Non scrivere frasi più lunghe di *due* righe
@@ -30,6 +31,7 @@
     - Non creare sezioni con singola sottosezione
     - Evita di disperdere le informazioni: definizione, dettagli e implicazioni stanno nello stesso paragrafo
     - Esiste differenza tra `.` e `. a capo`: `. a capo` si usa per cambiare discorso
+    - Non aggiungere come sviluppi futuri i dettagli implementativi (e.g., "rimane da implementare il metodo `foo()`")
 0. Citazioni e copia/incolla
     - Non citare Wikipedia (su https://scholar.google.it/ esiste un oceano di letteratura)
         - Se necessario, sfruttare Wikipedia per trovare le citazioni a paper/libri
