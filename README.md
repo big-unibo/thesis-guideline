@@ -58,7 +58,7 @@
 
 1. Quanto dura la sessione? Verificare
 2. Circa una slide per minuto
-3. Scaletta generica (e.g., per 10 minuti)
+3. Scaletta generica (e.g., per 10 minuti): 10 minuti -> ~10 slides
     - Motivazione (1/2 slide)
     - Collocazione rispetto alla related (1 slide)
     - Intuizione dell'approccio studiato (1 slide)
