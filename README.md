@@ -34,7 +34,7 @@
     - Non creare sezioni con singola sottosezione
     - Evita di disperdere le informazioni: definizione, dettagli e implicazioni stanno nello stesso paragrafo
     - Esiste differenza tra `.` e `. a capo`: `. a capo` si usa per cambiare discorso
-    - Non aggiungere come sviluppi futuri i dettagli implementativi (e.g., "rimane da implementare il metodo `foo()`")
+    - Non aggiungere come "Conclusioni e sviluppi futuri" i dettagli implementativi (e.g., "rimane da implementare il metodo `foo()`")
 6. Citazioni e copia/incolla
     - Non citare Wikipedia (su https://scholar.google.it/ esiste un oceano di letteratura)
         - Se necessario, sfruttare Wikipedia per trovare le citazioni a paper/libri
