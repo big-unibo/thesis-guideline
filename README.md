@@ -66,3 +66,4 @@
     - Come funziona l'approccio (2 slide)
     - Test (1/2 slide)
     - Conclusioni e sviluppi futuri (1 slide)
+4. Inviare le slide il prima possibile (dopo la consegna)
