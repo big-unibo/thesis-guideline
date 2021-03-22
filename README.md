@@ -57,10 +57,13 @@
 ## Slides
 
 1. Quanto dura la sessione? Verificare
-    - Se la discussione dura 15 min, 10/12 minuti sono da dedicare alle slide (gli altri rimangono per eventuali domande)  
+    - Se la discussione dura 15 min, 10/12 minuti sono da dedicare alle slide (gli altri rimangono per eventuali domande)
+    - Se la discussione dura 20 min, 15 minuti sono da dedicare alle slide (gli altri rimangono per eventuali domande)  
 2. Non ci sono vincoli sull'utilizzo di Latex o Powerpoint
-3. Circa una slide per minuto
-4. Scaletta generica (e.g., per 10 minuti): 10 minuti -> ~10 slides
+    - Usare un font grande (~20pt)
+    - Produrre slide "asciutte" (NO frasi lunghissime o paragrafi di testo)
+4. Circa una slide per minuto
+5. Scaletta generica (e.g., per 10 minuti): 10 minuti -> ~10 slides
     - Motivazione (1/2 slide)
     - Collocazione rispetto alla related (1 slide)
     - Intuizione dell'approccio studiato (1 slide)
@@ -68,4 +71,12 @@
     - Come funziona l'approccio (2 slide)
     - Test (1/2 slide)
     - Conclusioni e sviluppi futuri (1 slide)
-5. Inviare le slide il prima possibile, cioè quando avete una bozza completa
+6. Scaletta generica (e.g., per 15 minuti): 15 minuti -> ~15 slides
+    - Motivazione (2/3 slide)
+    - Collocazione rispetto alla related (1/2 slide)
+    - Intuizione dell'approccio studiato (1 slide)
+    - Esempio di funzionamento (2 slide)
+    - Come funziona l'approccio (4 slide)
+    - Test (2/3 slide)
+    - Conclusioni e sviluppi futuri (1 slide)
+7. Inviare le slide il prima possibile, cioè quando avete una bozza completa
