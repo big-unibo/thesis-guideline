@@ -68,7 +68,7 @@
     - Collocazione rispetto alla related (1 slide)
     - Intuizione dell'approccio studiato (1 slide)
     - Esempio di funzionamento (1 slide)
-    - Come funziona l'approccio (2 slide)
+    - Come funziona l'approccio (2 slide/3)
     - Test (1/2 slide)
     - Conclusioni e sviluppi futuri (1 slide)
 6. Scaletta generica (e.g., per 15 minuti): 15 minuti -> ~15 slides
